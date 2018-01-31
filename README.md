@@ -5,7 +5,7 @@ An Android App that implements CRUD operations with a help of python-flask based
 Any device with android version greater than 4.1.0 will be sufficient
 
 # Installation
-Bulid the app through android studio and run the python server using the command -> python server.py and you are good to go\
+Bulid the app through android studio and run the python server using the command -> python server.py and you are good to go.
 
 # Sample 
 UserID - sahilkhosla
